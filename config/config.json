@@ -1,0 +1,12 @@
+{
+  "dataset_dir": "datasets/nyt",
+  "model_name": "roberta-large",
+  "output_dir": "checkpoints",
+  "num_train_epochs": 10,
+  "train_batch_size": 32,
+  "eval_batch_size": 32,
+  "warmup_ratio": 0.1,
+  "learning_rate": 1e-5,
+  "max_seq_length": 310,
+  "add_other": true
+}

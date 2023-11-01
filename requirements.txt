@@ -1,0 +1,7 @@
+datasets
+transformers
+evaluate
+scikit-learn
+pandas
+torch -f https://download.pytorch.org/whl/cu118
+accelerate
